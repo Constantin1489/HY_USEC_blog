@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 안녕하세요. 수업 예제입니다.
 
 You can use the [editor on GitHub](https://github.com/Constantin1489/HY_USEC_blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
